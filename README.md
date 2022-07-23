@@ -1,4 +1,4 @@
-GO TO MASTER BRANCH TO SEE CODES 
+GO  TO  MASTER  BRANCH  TO  SEE  CODES 
 
 SET DATABASE CREDENTIALS IN .env file According to your database Credentials
 
